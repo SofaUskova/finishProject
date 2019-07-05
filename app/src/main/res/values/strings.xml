@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">finishProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_home">Главное меню</string>
+    <string name="menu_reminders">Напоминания</string>
+    <string name="menu_exit">Выход</string>
     <string name="btn_registrationU"><u>Регистрация</u></string>
     <string name="btn_registration">Регистрация</string>
     <string name="btn_loginU"><u>Вход</u></string>
