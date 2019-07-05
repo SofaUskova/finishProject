@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">finishProject</string>
+    <string name="btn_registrationU"><u>Регистрация</u></string>
+    <string name="btn_registration">Регистрация</string>
+    <string name="btn_loginU"><u>Вход</u></string>
+    <string name="btn_login">Вход</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="first_name">Имя</string>
+    <string name="last_Name">Фамилия</string>
+</resources>
