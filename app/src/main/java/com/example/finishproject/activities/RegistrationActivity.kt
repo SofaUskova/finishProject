@@ -1,8 +1,9 @@
-package com.example.finishproject
+package com.example.finishproject.activities
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
+import com.example.finishproject.R
 import kotlinx.android.synthetic.main.activity_registration.*
 
 class RegistrationActivity : AppCompatActivity() {
